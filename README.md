@@ -1,9 +1,9 @@
 ESIP Staff Roles
 ==================
 
-These are the roles and accountabilities the staff have at EarthCube
+These are the roles and accountabilities the staff have at ESIP. 
 
-NOTE: the individual roles are listed in the WIKI pages <https://github.com/earthcube/ProgramOfficeRoles/wiki>
+NOTE: the individual roles are listed in the WIKI pages <>
 
 # ESIP Staff Roles and Accountabilities
 
