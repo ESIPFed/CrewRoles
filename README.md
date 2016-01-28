@@ -3,7 +3,7 @@ ESIP Staff Roles
 
 These are the roles and accountabilities the staff have at ESIP. 
 
-NOTE: the individual roles are listed in the WIKI pages <>
+NOTE: the individual roles are listed in the WIKI pages <https://github.com/ESIPFed/CrewRoles/wiki>
 
 # ESIP Staff Roles and Accountabilities
 
