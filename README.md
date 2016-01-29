@@ -3,7 +3,7 @@ ESIP Roles
 
 These are the roles and accountabilities the staff, volunteer leadership and community have at ESIP. 
 
-NOTE: the individual roles are listed in the WIKI pages <https://github.com/ESIPFed/CrewRoles/wiki>
+NOTE: the individual roles are listed in the WIKI pages <https://github.com/ESIPFed/Roles/wiki>
 
 # ESIP Roles and Accountabilities
 
