@@ -1,11 +1,11 @@
-ESIP Staff Roles
+ESIP Roles
 ==================
 
-These are the roles and accountabilities the staff have at ESIP. 
+These are the roles and accountabilities the staff, volunteer leadership and community have at ESIP. 
 
 NOTE: the individual roles are listed in the WIKI pages <https://github.com/ESIPFed/CrewRoles/wiki>
 
-# ESIP Staff Roles and Accountabilities
+# ESIP Roles and Accountabilities
 
 Process: based on new kind of governance structure called holacracy. A really well-articulated flat structure, distributed authority scheme. Create an organization where the responsibilities for various things are granted to different people in the organization; they're "energizing" particular roles.
 Two kinds of meetings:
