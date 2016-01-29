@@ -24,5 +24,8 @@ Point is; there are no job descriptions, we're promising that we're going to ene
 In the ESIP setting things are currently transitioning with an expanded staff, so we want the ability to add roles when we observe new functions. Something new comes up on the edge of a role, gets done initially, but if it'll be a recurring role needs to be added in.
 
 
-Protocols:
+# Protocols:
 * TBD 
+
+# Background
+* http://www.slideshare.net/BernhardBockelbrink/sociocracy-30-a-brief-introduction-presentation-v20150329
